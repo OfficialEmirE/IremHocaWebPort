@@ -33,6 +33,7 @@ Projeyi kendi bilgisayarınızda açmak ve düzenlemek için aşağıdaki adıml
 ## 📝 Notlar
 *   Bu port, WebGL platformu için özel olarak konfigüre edilmiştir.
 *   Düzenleme yaparken `Build Settings` üzerinden platformun **WebGL** seçili olduğundan emin olun.
+*   Bu proje için [AssetRipper](https://github.com/AssetRipper/AssetRipper) kullanılmıştır.
 
 ---
 *Bu proje webten oynamak ve geliştirmek isteyen gardaşlar için geliştirilmiştir*
